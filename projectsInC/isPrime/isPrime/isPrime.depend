@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565678297 source:c:\users\gordo\onedrive\desktop\projectsinc\isprime\isprime\isprime.c
+	<stdio.h>
+	<math.h>
+

@@ -1,0 +1,4 @@
+﻿  helloC.c
+C:\HELLO\helloC\helloC\helloC.c(5,8): warning C4013:  'printi' undefined; assuming extern returning int
+helloC.obj : error LNK2019: unresolved external symbol _printi referenced in function _main
+C:\HELLO\helloC\Debug\helloC.exe : fatal error LNK1120: 1 unresolved externals
